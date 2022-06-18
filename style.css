@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-image: url(https://images.pexels.com/photos/531767/pexels-photo-531767.jpeg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: white;
+  margin-top: 7rem;
+  font-size: 3.5rem;
+}
+
+.input-group{
+    width: 50%;
+}
+
+.sıcaklık {
+    font-size: 7rem;
+}
+
+sup {
+    font-weight: 100;
+    font-size: 4.5rem;
+    color: #CDD1D9;
+}
