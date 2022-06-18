@@ -21,16 +21,26 @@ h1 {
   font-size: 3.5rem;
 }
 
-.input-group{
-    width: 50%;
+.input-group {
+  width: 50%;
 }
 
 .sıcaklık {
-    font-size: 7rem;
+  font-size: 7rem;
 }
 
-sup {
-    font-weight: 100;
-    font-size: 4.5rem;
-    color: #CDD1D9;
+.derece {
+  font-weight: 100;
+  font-size: 4.5rem;
+  color: #cdd1d9;
+}
+
+.ülke {
+  color: white;
+  background-color: #ffc107;
+  padding: 1px 10px;
+  border-radius: 12px;
+  text-transform: uppercase;
+  margin-left: 0.5rem;
+  font-size: 20px;
 }
